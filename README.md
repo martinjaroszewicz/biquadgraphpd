@@ -2,7 +2,7 @@
 
 This Python script converts biquad filter coefficients for use with Pure Data's biquad~ object. It streamlines the process of implementing custom filters in Pure Data by automating the coefficient conversion.
 
-![](https://github.com/martinjaroszewicz/biquadgraphpd.git/biquad2.gif)
+![](https://github.com/martinjaroszewicz/biquadgraphpd/blob/d4569dff215f8e2576cbcf9775f0435635f16355/biquad2.gif)
 
 ### Features
 
