@@ -43,7 +43,6 @@ Pure Data biquad~ coefficients:
 ### Resources
 
 - [BiQuadDesigner](https://arachnoid.com/BiQuadDesigner/): Online tool for calculating biquad filter coefficients
-- [Pure Data biquad~ object documentation](https://puredata.info/docs/manuals/pd/x2.htm#biquad)
 
 ### License
 
