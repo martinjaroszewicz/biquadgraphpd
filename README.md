@@ -1,8 +1,3 @@
-# biquadgraphpd
-#Biquad filter calculator graph and output for pure data in Python
-
-Here's an improved README for the Python script that converts biquad coefficients for use with Pure Data's biquad~ object:
-
 ## Biquad Coefficient Converter for Pure Data
 
 This Python script converts biquad filter coefficients for use with Pure Data's biquad~ object. It streamlines the process of implementing custom filters in Pure Data by automating the coefficient conversion.
